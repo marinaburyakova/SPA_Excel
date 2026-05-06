@@ -16,3 +16,9 @@ color: rgba(0, 0, 0, .7);
     cursor: pointer;
 }
 }
+
+@mixin clear-list() {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
