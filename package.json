@@ -1,0 +1,24 @@
+{
+  "name": "exel_project",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000S\u0000P\u0000A\u0000_\u0000E\u0000x\u0000c\u0000e\u0000l\u0000\r\u0000 \u0000",
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "homepage": "https://github.com/marinaburyakova/SPA_Excel#readme",
+  "bugs": {
+    "url": "https://github.com/marinaburyakova/SPA_Excel/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinaburyakova/SPA_Excel.git"
+  },
+  "license": "ISC",
+  "author": "Marina Buryakova < marinaburyakova07z@gmail.com>",
+  "type": "commonjs",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
